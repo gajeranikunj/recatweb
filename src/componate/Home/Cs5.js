@@ -14,7 +14,6 @@ function Cs5() {
     tr(1)
   }, [])
 
-  // tr(1)
   return (
     <>
       <div className="mt-5">

@@ -6,6 +6,7 @@ import Cs3 from './Cs3'
 import Cs4 from './Cs4'
 import Cs5 from './Cs5'
 import Cs6 from './Cs6'
+import Cs7 from './Cs7'
 function Chome() {
     return (
         <>
@@ -16,6 +17,7 @@ function Chome() {
             <Cs4 />
             <Cs5 />
             <Cs6 />
+            <Cs7/>
         </>
     )
 }
